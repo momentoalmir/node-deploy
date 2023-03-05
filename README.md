@@ -1,6 +1,6 @@
-# Server API for User Management
+# Node Deploy Example
 
-This server provides a REST API for managing users. It uses [Fastify](https://www.fastify.io/) as the web framework and [Prisma](https://www.prisma.io/) as the ORM.
+This server provides a REST API for managing users. It uses [Fastify](https://www.fastify.io/) as the web framework and [Prisma](https://www.prisma.io/) as the ORM. This is a very basic example of a node setup for deploying.
 
 ## Requirements
 
